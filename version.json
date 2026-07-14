@@ -1,0 +1,6 @@
+{
+  "version": "1.0.0",
+  "download_url": "https://github.com/dellacquasoftwares-erps/caixa-inteligente-updates/releases/download/v1.0.0/CaixaInteligente.exe",
+  "release_notes": "Primeira versão com banco compartilhado e auto-update!",
+  "mandatory": false
+}
